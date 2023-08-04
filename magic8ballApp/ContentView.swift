@@ -33,7 +33,7 @@ struct ContentView: View {
                 Text("")
                 Text(answer)
                     .font(.title)
-                    .fontWeight(.medium)
+                    .fontWeight(.semibold)
                     .foregroundColor(Color.red)
                 
                 
